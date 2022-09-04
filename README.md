@@ -1,0 +1,2 @@
+# ARQUITETURA
+![plot](arquitetura.png)
